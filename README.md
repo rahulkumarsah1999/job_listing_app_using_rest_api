@@ -2,9 +2,6 @@
 
 A modern Flutter application that displays **Active** and **Archived** job listings using REST APIs. The application follows clean coding practices using **Provider** for state management and offers a smooth user experience with search functionality, loading indicators, error handling, and detailed job information.
 
-<p align="center">
-  <img src="screenshots/app_preview.png" alt="Job Listing App Preview"/>
-</p>
 
 ---
 
@@ -26,7 +23,9 @@ A modern Flutter application that displays **Active** and **Archived** job listi
 
 ## 📸 Application Preview
 
-> Replace the image below with your application screenshot.
+<p align="center">
+  <img src="screenshots/app_preview.png" alt="Job Listing App Preview"/>
+</p>
 
 ```
 screenshots/
